@@ -4,7 +4,7 @@ There are 3 algorithms of it:
 
 1. Basic algorithm
 2. With a sentinel - the main idea of this search is to reduce number of
-3. In an ordered table
+3. In an ordered table - the main idea is to reduce the number of iterations
 
 
 
